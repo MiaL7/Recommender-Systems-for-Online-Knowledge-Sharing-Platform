@@ -36,3 +36,4 @@ We didn't include the whole ZhihuRec dataset here. Please download the original 
 - Feel free to check out the explorationary data analysis in `data-visual-answer.ipynb`, `data-visual-question.ipynb`, and `data-visual-user.ipynb`
 - `Baseline-CF.ipynb` is the implementation of baseline methods using Surprise
 - `Baseline-Recbole.ipynb` and `Recbole-NGCF.ipynb` is the implementation of our methods using RecBole
+- `report` is the paper we wrote to demonstrate our work for this project
